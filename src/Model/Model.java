@@ -86,6 +86,7 @@ public class Model {
 
 }
 
+//Kram für Controller maybe
     /*public void updateList(TagList activeTags) {
         if(!(activeTags.getAtLeastOneTagActive())){
             selectedGames = getAllGames();
