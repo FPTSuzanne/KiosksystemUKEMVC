@@ -4,8 +4,7 @@ import java.io.IOException;
 import java.sql.*;
 
 /*
-Aktuelle Datenbank sieht so aus:
-(Test Datenbank)
+Muss noch sehr verändert werden.
 
 
 public class JDBC {
